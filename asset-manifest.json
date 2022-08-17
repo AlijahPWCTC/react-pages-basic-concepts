@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-pages-basic-concpets/static/css/main.c444fb49.css",
+    "main.js": "/react-pages-basic-concpets/static/js/main.75a745a3.js",
+    "static/js/787.b5d40ff4.chunk.js": "/react-pages-basic-concpets/static/js/787.b5d40ff4.chunk.js",
+    "index.html": "/react-pages-basic-concpets/index.html",
+    "main.c444fb49.css.map": "/react-pages-basic-concpets/static/css/main.c444fb49.css.map",
+    "main.75a745a3.js.map": "/react-pages-basic-concpets/static/js/main.75a745a3.js.map",
+    "787.b5d40ff4.chunk.js.map": "/react-pages-basic-concpets/static/js/787.b5d40ff4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c444fb49.css",
+    "static/js/main.75a745a3.js"
+  ]
+}
